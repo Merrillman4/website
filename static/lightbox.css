@@ -207,8 +207,7 @@ body.lb-disable-scrolling {
 .photoshoot {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  
 }
 
 .photoshoot .images {
