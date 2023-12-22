@@ -204,16 +204,3 @@ body.lb-disable-scrolling {
   opacity: 1;
 }
 
-
-.photoshoot {
-  display: flex;
-  flex-direction: row;
-  
-}
-
-.photoshoot .images {
-  display: flex;
-  flex-direction: column;
-  width: 32%; 
-  
-}
